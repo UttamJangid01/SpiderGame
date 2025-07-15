@@ -38,7 +38,7 @@ The spider moves rapidly, and your reaction time decides whether you win or keep
 ### 🧑‍💻 Steps
 ```bash
 # Step 1: Clone the repository
-git clone https://github.com/your-username/SpiderGame.git
+git clone https://github.com/UttamJangid01/SpiderGame.git
 
 # Step 2: Open the project in your IDE
 
